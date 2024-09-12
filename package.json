@@ -13,7 +13,7 @@
     "@emailjs/browser": "^4.4.1",
     "fast-glob": "^3.3.2",
     "framer-motion": "^11.3.29",
-    "micromatch": "^4.0.7",
+    "micromatch": "^4.0.8",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-hot-toast": "^2.4.1",
